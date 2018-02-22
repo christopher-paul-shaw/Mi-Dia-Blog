@@ -1,0 +1,93 @@
+body{ background-color: #1D4667; margin: 0; }
+.outerbar {
+	background-color: #1D4667;
+}
+.navbar {
+	background-color: #5A9CD1;
+}
+.container {
+	background-color: #E8E8E8;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	
+}
+.bodyline {
+	background-color: #FFF;
+	padding: 1px;
+	border: 1px solid #808080;
+}
+.display {
+	padding: 0px;
+}
+.Footer {
+	padding: 2px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFF;
+}
+
+#global table tr .outerbar table tr td {
+	font-family: Verdana, Geneva, sans-serif; color:#FFF;
+}
+.namefont {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFF;
+}
+.navtabs {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFF;
+	padding: 2px;
+	float: right;
+	width: 400px;
+}
+td.navtabs {width: 100px; }
+.navtab {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: capitalize;
+	color: #FFF;
+	padding: 4px;
+	width: 100px;
+}
+
+.boxtop {background-color: #5A9CD1;padding: 4px;}
+.navfont { font-size:12px; font-family:Tahoma, Geneva, sans-serif; color:#FFF; font-weight:bold; text-decoration:none;}
+.normfont { font-size:11px; font-family:Tahoma, Geneva, sans-serif; color:#000; text-decoration:none;}
+a:link.normfont { color: #411E0A; }
+a:visited.normfont { color: #723B18; }
+a:hover.normfont { color: #BC8432; }
+.formcss {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10px;
+	color: #333;
+	background-color: #E1E1E1;
+	padding: 4px;
+	border: 1px solid #ACACAC;
+}
+.menubox {
+	border: 1px solid #6C6C6C;
+}
+-->
